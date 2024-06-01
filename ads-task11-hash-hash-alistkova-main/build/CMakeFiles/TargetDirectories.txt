@@ -1,0 +1,3 @@
+C:/Users/ship4/Desktop/cpp/4sem/ads-task11-hash-hash-alistkova-main/build/CMakeFiles/hash-hash.dir
+C:/Users/ship4/Desktop/cpp/4sem/ads-task11-hash-hash-alistkova-main/build/CMakeFiles/edit_cache.dir
+C:/Users/ship4/Desktop/cpp/4sem/ads-task11-hash-hash-alistkova-main/build/CMakeFiles/rebuild_cache.dir

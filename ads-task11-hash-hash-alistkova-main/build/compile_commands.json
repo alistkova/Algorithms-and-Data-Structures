@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ship4/Desktop/cpp/4sem/ads-task11-hash-hash-alistkova-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -pedantic-errors -gdwarf-4 -std=c++20 -g -o CMakeFiles\\hash-hash.dir\\hash-hash.cpp.obj -c C:\\Users\\ship4\\Desktop\\cpp\\4sem\\ads-task11-hash-hash-alistkova-main\\hash-hash.cpp",
+  "file": "C:/Users/ship4/Desktop/cpp/4sem/ads-task11-hash-hash-alistkova-main/hash-hash.cpp",
+  "output": "CMakeFiles/hash-hash.dir/hash-hash.cpp.obj"
+}
+]
