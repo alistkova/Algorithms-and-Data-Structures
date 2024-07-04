@@ -1,0 +1,31 @@
+push 10
+push 9
+push 8
+push 7
+push 6
+push 5
+push 4
+push 3
+push 2
+push 1
+decrease-key 1 0
+extract-min
+decrease-key 2 0
+extract-min
+decrease-key 3 0
+extract-min
+decrease-key 4 0
+extract-min
+decrease-key 5 0
+extract-min
+decrease-key 6 0
+extract-min
+decrease-key 7 0
+extract-min
+decrease-key 8 0
+extract-min
+decrease-key 9 0
+extract-min
+decrease-key 10 0
+extract-min
+extract-min

@@ -1,0 +1,52 @@
+push 1
+push 2
+push 3
+push 4
+push 5
+push 6
+push 7
+push 8
+push 9
+push 10
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+extract-min
+push 10
+push 9
+push 8
+push 7
+push 6
+push 5
+push 4
+push 3
+push 2
+push 1
+decrease-key 22 -1
+extract-min
+decrease-key 23 -2
+extract-min
+decrease-key 24 -3
+extract-min
+decrease-key 25 -4
+extract-min
+decrease-key 26 -5
+extract-min
+decrease-key 27 -6
+extract-min
+decrease-key 28 -7
+extract-min
+decrease-key 29 -8
+extract-min
+decrease-key 30 -9
+extract-min
+decrease-key 31 -10
+extract-min
+extract-min
